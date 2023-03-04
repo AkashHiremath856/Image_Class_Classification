@@ -12,6 +12,7 @@ import shutil
 
 
 def get_images(images, total=10):
+    print('Getting Image')
     # Training Images
     shutil.rmtree('Images', ignore_errors=True)
     for _ in images:
@@ -62,4 +63,4 @@ def train_model_():
     clf.fit(x_train, y_train)
 
     # Export model
-    pickle.dump(clf, open('img_model.p', 'wb'))
+    pickle.dump(clf, open('img_model.pkl', 'wb'))
