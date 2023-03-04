@@ -3,6 +3,8 @@
 
 Using SVM'S SVC Classifier to make the model get trained and solve classification problem.
 
+<img src="https://github.com/AkashHiremath856/Image_Class_Classification/blob/main/Samples/photo_6060121455506601957_w.jpg"/>
+<img src="https://github.com/AkashHiremath856/Image_Class_Classification/blob/main/Samples/photo_6060121455506601956_w.jpg"/>
 
 ## Deployment
 
